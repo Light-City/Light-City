@@ -1,5 +1,7 @@
 # Hi,I'm Light-City  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
 
+ <img src="https://github.com/Light-City/Light-City/blob/main/mtt.jpg?raw=true">
+
 I ❤️ Back-end Development!
 
 :computer: A Back-end Engineer, currently based in ShenZhen at Tencent.
@@ -7,8 +9,6 @@ I ❤️ Back-end Development!
 :vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
 :writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.club/).
-
- <img src="https://github.com/Light-City/Light-City/blob/main/mtt.jpg?raw=true" width="403px" height="302px">
 
 ## ⚡ Technologies
 
