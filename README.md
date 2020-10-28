@@ -28,7 +28,10 @@ I ❤️ Back-end Development!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Light-City's Github Stats](https://github-readme-stats.vercel.app/api?username=light-city&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=light-city&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&show_icons=true&theme=blue-green&layout=compact">
+</p>
 
 ## 🌎 Find me
 - wechat Official Account: search **guangcity**📹 ✍🏾
