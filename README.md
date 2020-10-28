@@ -15,24 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello I'm Light-City
 
+I ❤️ Back-end Development!
 
+:computer: A Back-end Engineer, currently based in ShenZhen at Tencent.
 
+:vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
-
-
+:writing_hand: I Love write blog, you can visit [my websites](https://light-city.club/).
 
 
 ## ⚡ Technologies
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
@@ -43,6 +45,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=light-city&count_private=true&show_icons=true&include_all_commits=true)
+![Light-City's Github Stats](https://github-readme-stats.vercel.app/api?username=light-city&show_icons=true&theme=dracula)
 
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
