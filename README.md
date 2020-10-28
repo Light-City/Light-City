@@ -30,5 +30,9 @@ I ❤️ Back-end Development!
 
 ![Light-City's Github Stats](https://github-readme-stats.vercel.app/api?username=light-city&show_icons=true&theme=dracula)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## 🌎 Find me
+- wechat Official Account: search **guangcity**📹 ✍🏾
+- blog: click [geek-guangcheng](https://light-city.club/)🏓
+
+## 🌎 Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
