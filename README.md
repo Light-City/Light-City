@@ -6,7 +6,7 @@ I ❤️ Back-end Development!
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
-:writing_hand: I Love write blog, you can visit [my websites](https://light-city.club/).
+:writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.club/).
 
 
 ## ⚡ Technologies
