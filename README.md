@@ -1,4 +1,4 @@
-# Hello I'm Light-City  <img src="https://raw.githubusercontent.com/light-city/light-city/master/wave.gif" width="30px">
+# Hello I'm Light-City  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
 
 I ❤️ Back-end Development!
 
