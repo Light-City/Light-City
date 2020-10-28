@@ -30,7 +30,7 @@ I ❤️ Back-end Development!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=light-city&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&show_icons=true&theme=blue-green&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=light-city&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
 </p>
 
 ## 🌎 Find me
