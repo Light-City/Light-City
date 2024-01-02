@@ -41,5 +41,7 @@ I ❤️ Back-end Development!
 - wechat Official Account: search **guangcity**📹 ✍🏾
 - blog: click [geek-guangcheng](https://light-city.club/)🏓
 
+![wechat](https://github.com/Light-City/Light-City/assets/25699850/c5526f3d-a949-4fc8-bbb7-75c239313259)
+
 ## 🌎 Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
