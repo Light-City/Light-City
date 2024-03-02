@@ -39,7 +39,7 @@ I ❤️ Back-end Development!
 
 ## 🌎 Find me
 - wechat Official Account: search **guangcity**📹 ✍🏾
-- blog: click [geek-guangcheng](https://light-city.club/)🏓
+- blog: click [geek-guangcheng](https://light-city.vercel.app/)🏓
 
 ![wechat](https://github.com/Light-City/Light-City/assets/25699850/c5526f3d-a949-4fc8-bbb7-75c239313259)
 
