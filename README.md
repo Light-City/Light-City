@@ -8,7 +8,7 @@ I ❤️ Back-end Development!
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
-:writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.vercel.app/).
+:writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.github.io/).
 
 ## ⚡ Technologies
 
@@ -39,7 +39,7 @@ I ❤️ Back-end Development!
 
 ## 🌎 Find me
 - wechat Official Account: search **guangcity**📹 ✍🏾
-- blog: click [geek-guangcheng](https://light-city.vercel.app/)🏓
+- blog: click [geek-guangcheng](https://light-city.github.io/))🏓
 
 ![wechat](https://github.com/Light-City/Light-City/assets/25699850/c5526f3d-a949-4fc8-bbb7-75c239313259)
 
